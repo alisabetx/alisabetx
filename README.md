@@ -1,6 +1,6 @@
 # Hi, I'm Ali Sabet
 
-**Software Engineer | MBA Candidate**
+**Software Engineer | MBA**
 
 Tehran, Iran  
 [alisabetx.com](https://alisabetx.com)  
@@ -24,12 +24,6 @@ Tehran, Iran
 - **Practices:** **Clean Architecture**, **Microservices**, **SOLID principles**, **Agile methodologies**
 
 ---
-
-<!---
-### 📝 Latest Blog Posts
-
-- [XXX](https://alirsabet.com/en/about)
--->
 
 ### 📈 GitHub Stats
 
