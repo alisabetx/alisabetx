@@ -10,7 +10,7 @@ Tehran, Iran
 
 ### 👨‍💻 About Me
 
-**Backend Developer** with over 5 years of experience in **FinTech** and **EdTech** sectors. Skilled in building **scalable systems** using **.NET Core**, **SQL/NoSQL databases**, and **distributed architectures**. Currently pursuing an **MBA** with a focus on **strategic systems thinking**.
+Backend Developer with 5+ years in FinTech and EdTech, delivering scalable systems in .NET Core, SQL/NoSQL, and distributed architectures. Strong expertise in clean code, agile practices, and performance optimization, with proven ability to handle high-traffic platforms, improve reliability, and collaborate effectively within cross-functional teams.
 
 ---
 
